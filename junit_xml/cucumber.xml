@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Sample feature" name="Sample test scenario page" time="0">
+<skipped><![CDATA[Given User logged in to Muvi application....................................undefined
+When logo of the application is present, user clicks on Free trial button...undefined
+When User-Info page appears , User fills all the information and click on Next button.undefined
+When user is in Dashboard Page..............................................undefined
+Then Mousehovers to Manage Content and click on Content Library.............undefined
+When user Clicks on Add content.............................................undefined
+And fills the Basic Info section............................................undefined
+And Clicks on Save & Continue button........................................undefined
+Then Mousehovers to Manage Content and click on Content Library.............undefined
+When user checks for newly added content, it should be present in Content Library.undefined
+And Content name should be samez............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
